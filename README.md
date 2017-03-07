@@ -11,10 +11,6 @@ Work-flow
 -
 A text file is read from current directory, the data is passed onto the ALU, which decodes relevant information and passes it onto the next module. The instruction set has been modified from the original x8086 assembler.
 
-Instruction set
--
-![set](https://github.com/adl1995/edge-detectors/blob/master/marr-hildreth-edge.py)
-
 Arithmetic logic unit
 -
 ![alu](https://github.com/adl1995/16-bit-micro-processor-simulator/blob/master/alu.png)
